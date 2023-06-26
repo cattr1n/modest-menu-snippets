@@ -46,4 +46,3 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2022 [IMXNOOBX](https://github.com/IMXNOOBX).<br />
 This project is [ISC](https://github.com/IMXNOOBX/modest-menu-snippets/blob/master/LICENSE) licensed.
-
